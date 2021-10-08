@@ -68,7 +68,7 @@ services:
 12. Create the Django project by running the docker-compose run command as follows.
 
 ```
-$ sudo docker-compose run web django-admin startproject composeexample .
+$ sudo docker-compose run web django-admin startproject <project name> .
 ```
 
 13. After the docker-compose command completes, list the contents of your project.
