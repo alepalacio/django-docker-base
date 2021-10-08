@@ -1,7 +1,9 @@
-# Quickstart for Django and Docker using PostgreSQL.
+# Quickstart for Django and PostgreSQL using Docker.
 ---
 1. First install Docker and Docker Compose.
+
     [Docker](https://docs.docker.com/engine/install/)
+
     [Docker Compose](https://docs.docker.com/compose/install/)
 
 2. Create an empty project directory/folder.
